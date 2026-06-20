@@ -1,0 +1,6 @@
+{
+  "name": "SpaceNews Core",
+  "description": "SpaceNews Core - An advanced, highly polished international space flight news portal. Features user authentication, live API articles feed, interactive real-time favorites panel, notifications, and profile manager with Firestore and LocalStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
